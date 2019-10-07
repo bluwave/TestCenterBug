@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<testsuites name='Test_Center_BugTests.xctest' tests='2' failures='1' retries='2'>
+  <testsuite name='Test_Center_BugTests.Test_Center_BugTests' tests='2' failures='1'>
+    <testcase classname='Test_Center_BugTests.Test_Center_BugTests' name='testExample2' time='0.001'/>
+    <testcase classname='Test_Center_BugTests.Test_Center_BugTests' name='testExample'>
+      <failure message='XCTAssertEqual failed: (&quot;1&quot;) is not equal to (&quot;2&quot;)'>
+        Test_Center_BugTests/Test_Center_BugTests.swift:24
+      </failure>
+    </testcase>
+  </testsuite>
+</testsuites>
